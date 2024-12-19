@@ -6,6 +6,12 @@
 
 #### USA: SELENIUM (geckodriver.exe [firefox 133.0.3])
 
-### ESPERO LES SEA DE AYUDA ESTE APORTE.
 
+### COMO EJECUTAR : 
+
+pip install -r requirements.txt
+cd Bforce_FB
+python Bforce_FB.py
+
+### ESPERO LES SEA DE AYUDA ESTE APORTE.
 # (NINGUN SISTEMA ES SEGURO) #
