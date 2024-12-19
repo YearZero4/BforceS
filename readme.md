@@ -10,7 +10,9 @@
 ### COMO EJECUTAR : 
 
 pip install -r requirements.txt
+
 cd Bforce_FB
+
 python Bforce_FB.py
 
 ### ESPERO LES SEA DE AYUDA ESTE APORTE.
