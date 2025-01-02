@@ -10,7 +10,7 @@ init(autoreset=True)
 GREEN = f"{Fore.GREEN}{Style.BRIGHT}"
 WHITE = f"{Fore.WHITE}{Style.BRIGHT}"
 RED = f"{Fore.RED}{Style.BRIGHT}"
-email_or_phone = 'danielaruizx159@gmail.com'
+email_or_phone = input('CORREO O NUMERO DE TELEFONO > ')
 
 def tokped(number):
  kirim = {
